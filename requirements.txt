@@ -1,0 +1,7 @@
+python-telegram-bot
+pyTelegramBotAPI
+requests
+datetime
+pymongo
+bs4
+throwbin
