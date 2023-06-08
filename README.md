@@ -1,4 +1,4 @@
-<h1 align="center"><b><b>FAST BOT</b></b></h1>
+<h1 align="center"><b><b>TRASH BOT</b></b></h1>
 
 <code> open-source simples bot telegram
  </code>
@@ -11,8 +11,8 @@
     <a href="https://GitHub.com/Tr4shsx">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a> <br>
-    <img src="https://img.shields.io/github/repo-size/tr4shsx/telegram-bot?style=for-the-badge&logo=appveyor" alt="Repository Size"><br>
-    <img src="https://img.shields.io/github/stars/tr4shsx/telegram-bot?style=for-the-badge&logo=appveyor" alt="Stars"></a>
+    <img src="https://img.shields.io/github/repo-size/tr4shsx/trash-bot?style=for-the-badge&logo=appveyor" alt="Repository Size"><br>
+    <img src="https://img.shields.io/github/stars/tr4shsx/trash-bot?style=for-the-badge&logo=appveyor" alt="Stars"></a>
 </p>
 
 
@@ -22,9 +22,10 @@
 3. pkg install python  
 4. pip install python-telegram-bot
 5. pip install pyTelegramBotAPI
-6. cd telegram  
-7. config token api botfatch telegram 
-8. python bot.py</code>
+6. cd trash-bot
+7. pip install -r requirements.txt 
+8. config token api botfatch telegram 
+9. python bot.py</code>
   
 ## REQUERIMENTOS
 <code>pip install python-telegram-bot</code>
